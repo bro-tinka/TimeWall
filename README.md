@@ -51,10 +51,21 @@ A lightweight Windows utility that turns your desktop wallpaper into a personal 
 - Automatic one-minute update interval while Windows Battery Saver is active
 - Windows system-tray controls
 - Optional start-with-Windows setting
-
+- 
 Panchang values use local, low-precision astronomical calculations suitable for a personal wallpaper.
 
 
 
 # Download 
-- you can download via Release tab or simply navigating to there by clicking  [here](https://github.com/bro-tinka/TimeWall/releases/download/v2.3/TimeWall-Portable-v2.3.exe) to download the latest Windows executable.
+Please give it a STAR ⭐  it makes me feel happy to develop more such tools for you 
+### a) Latest Release (Download here): 
+
+![Latest Release](https://img.shields.io/github/v/release/bro-tinka/TimeWall) 
+
+### b) All Version Releases:
+-> you can check and download all releases  [here](https://github.com/bro-tinka/TimeWall/releases) 
+
+
+
+
+
