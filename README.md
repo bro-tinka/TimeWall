@@ -51,7 +51,9 @@ A lightweight Windows utility that turns your desktop wallpaper into a personal 
 - Automatic one-minute update interval while Windows Battery Saver is active
 - Windows system-tray controls
 - Optional start-with-Windows setting
-- 
+- automatic `Desktop icons` hide after 5 seconds of inactivity
+
+
 Panchang values use local, low-precision astronomical calculations suitable for a personal wallpaper.
 
 
