@@ -55,9 +55,26 @@ A lightweight Windows utility that turns your desktop wallpaper into a personal 
 - Windows system-tray controls
 - Optional start-with-Windows setting
 - automatic `Desktop icons` hide after 5 seconds of inactivity
+- new feature added : Custom Cordinate Nearest Area Fetching 
 
 
-Panchang values use local, low-precision astronomical calculations suitable for a personal wallpaper.
+Location Tab    
+↓   
+Select Custom coordinates from dropdown   
+↓   
+Enter your Cooridnates (latitude, longitude)   
+↓   
+Click Find Nearst Area  
+↓  
+Done. You should see your nearest area
+
+- Added a new renderer in `TimeWall v2.6` which does not use `%TEMP%` `Disk I/O` operations and directly takes the static base image from RAM to update it.
+  
+
+
+
+
+- Panchang values use local, low-precision astronomical calculations suitable for a personal wallpaper.
 
 
 
@@ -65,7 +82,14 @@ Panchang values use local, low-precision astronomical calculations suitable for 
 Please give it a STAR ⭐  it makes me feel happy to develop more such tools for you 
 
 
-![Latest Release](https://img.shields.io/github/v/release/bro-tinka/TimeWall)  
+![Latest Release](https://img.shields.io/github/v/release/bro-tinka/TimeWall)   
+
+We recommend downloading the release 2.5 for version for Stability 
+It is the most compatible version with a different renderer Engine using DISK I/O operations (nearly 100-150 Kbps)
+
+>The Version 2.6 gives the BLAZING FAST performace optimised near 0.01% CPU usage on modern computer & 0.00 DISK I/O operations as it directly renders in RAM and takes 50-60 MB RAM which is negligible on 8GB+ RAM Systems. 
+However the 2.6 version utility may not run in some systems
+
 
 you can check and download all releases  [click here](https://github.com/bro-tinka/TimeWall/releases) 
 
