@@ -20,12 +20,15 @@ A lightweight Windows utility that turns your desktop wallpaper into a personal 
 
 **So all & all you should not care about performace overhead at all!**
 
+## 10 BUILT IN TEMPLATES 
 ![THEME1](assets/theme_japanese_warrior.png) 
 ![THEME1](assets/theme_dark_modern.png) 
 ![THEME1](assets/theme_haunting.png) 
-![THEME1](assets/theme_spiritual.png) 
- 
+![THEME1](assets/theme_vedic_saffron.png) 
+![THEME1](assets/theme_cyberpunk_neon.png) 
 
+## Custom Image Background 
+![HOME](assets/home_ui_custom.png) 
 
 ## Included Features
 
@@ -60,12 +63,11 @@ Panchang values use local, low-precision astronomical calculations suitable for 
 
 # Download 
 Please give it a STAR ⭐  it makes me feel happy to develop more such tools for you 
-### a) Latest Release (Download here): 
 
-![Latest Release](https://img.shields.io/github/v/release/bro-tinka/TimeWall) 
 
-### b) All Version Releases:
--> you can check and download all releases  [here](https://github.com/bro-tinka/TimeWall/releases) 
+![Latest Release](https://img.shields.io/github/v/release/bro-tinka/TimeWall)  
+
+you can check and download all releases  [click here](https://github.com/bro-tinka/TimeWall/releases) 
 
 
 
