@@ -28,7 +28,7 @@ A lightweight Windows utility that turns your desktop wallpaper into a personal 
 ![THEME1](assets/theme_cyberpunk_neon.png) 
 
 ## Custom Image Background 
-![HOME](assets/home_ui_custom.png) 
+![HOME](assets/theme_custom_ui.png) 
 
 ## Included Features
 
@@ -87,6 +87,7 @@ Please give it a STAR ⭐  it makes me feel happy to develop more such tools for
 We recommend downloading the release 2.5 for version for Stability 
 It is the most compatible version with a different renderer Engine using DISK I/O operations (nearly 100-150 Kbps)
 
+The 2.5 version itself is optimized for perfomance but if you want literally ZERO disk I/O operations we encourage you to try v2.6 
 >The Version 2.6 gives the BLAZING FAST performace optimised near 0.01% CPU usage on modern computer & 0.00 DISK I/O operations as it directly renders in RAM and takes 50-60 MB RAM which is negligible on 8GB+ RAM Systems. 
 However the 2.6 version utility may not run in some systems
 
